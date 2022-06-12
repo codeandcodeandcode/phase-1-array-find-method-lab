@@ -1,1 +1,1 @@
-// code your solution here
+let superbowlWin = (arr)=> {
